@@ -10,6 +10,6 @@ val samplePrayers = listOf(
     Prayer("Maghrib", "17:55"),
     Prayer("Isya", "19:05"),
     Prayer("Taraweh", "20:00"),
-    Prayer("Qobliyah", "18:00"),
-    Prayer("Adzan", "24:00"),
+    Prayer("Badiyah", "18:00"),
+    Prayer("Qobliyah", "24:00"),
 )
